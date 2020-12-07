@@ -1,0 +1,7 @@
+# generated files
+config.h
+st
+
+# patches
+/patches
+*.diff
